@@ -1,2 +1,5 @@
 # Youtube-Trending-Videos-BOT
-Opens YouTube trending videos 
+
+You need to download google webdriver and python 3 first to run these automated scripts
+
+Opens YouTube trending videos tab
